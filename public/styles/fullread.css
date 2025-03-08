@@ -1,0 +1,54 @@
+.bookInfo{
+        margin: 3rem 15%;
+        clear:both;
+        display: block;
+        overflow: hidden;
+        line-height: 1.8rem;
+       padding: 2rem;
+        
+}
+a{
+        text-decoration: none;
+        color: white;
+        font-weight: 500;
+        
+}
+.bookdetail{
+        color: rgb(2, 2, 2);
+}
+.text{
+        text-align:justify;
+        line-height: 2rem;
+}
+.summary{
+        margin-bottom: 2rem;
+}
+.bookName{
+        color: black;
+        font-size: 3rem;
+        text-decoration-line: underline;
+        margin-bottom: 1rem;
+        
+
+}
+body{
+        background: #ffebbb;
+}
+img{
+        float: left;
+        height: 17rem;
+        object-fit: contain;
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+        box-shadow: 8px 8px 15px rgb(0,0,0,0.5);
+       
+}
+p{
+        font-size: 1.2rem;
+}
+.actions{
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+        margin-bottom: 7rem;
+}

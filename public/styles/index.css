@@ -1,0 +1,55 @@
+h1.allHeading{
+        font-size: 4rem;
+        font-style: italic;
+        text-align: center;
+        color: black;
+}
+a{
+        text-decoration: none;
+        
+}
+.addtop{
+        color: white;
+        font-weight: 600;
+}
+.topDiv{
+        margin: 1rem 15%;
+}
+.allnotes{
+        margin: 2rem 15%;
+        clear:both;
+        display: block;
+        overflow: hidden;
+        
+}
+ img{
+        float: left;
+        height: 10rem;
+        object-fit: contain;
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+        box-shadow: 8px 8px 15px rgb(0,0,0,0.5);
+       
+}
+.bookInfo{
+        margin-bottom: 4rem;
+        margin-top: 2rem;
+        clear:both;
+        display: block;
+        overflow: hidden;
+       
+        
+}
+.bookName a{
+        color: black;
+        font-size: 2rem;
+        text-decoration-line: underline;
+        
+
+}
+body{
+        background: #ffebbb;
+}
+.sortSummary{
+        line-height:2rem;
+}

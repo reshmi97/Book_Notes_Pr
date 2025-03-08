@@ -1,0 +1,88 @@
+*{
+        margin: 0;
+        padding: 0;
+}
+a{
+        text-decoration: none;
+        font-weight: bold;
+}
+.primary{
+        color: white;
+}
+.secondary{
+        color: black;
+}
+.mb-4{
+
+        height: 5rem;
+}
+header{
+        background:  #ffc7ab;
+        /* background-color: orangered; */
+}
+body{
+        text-align: center;
+}
+h1.heading{
+        margin-top: 1rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body.modifies{
+        background: #ffebbb; 
+}
+body.welcome{
+        background: #ffebbb;
+}
+
+.nav-link{
+        color: black;
+        font-weight: bold;
+        font-size: 1.1rem;
+}
+
+.feedback-input{
+        color: black;
+        font-weight: 500;
+        font-size: 18px;
+        border-radius: 5px;
+        line-height: 22px;
+        background-color: transparent;
+        border: 2px solid #000000;
+        transition: all 0.3s;
+        padding: 13px;
+        margin-bottom: 15px;
+        width: 100%;
+        box-sizing: border-box;
+        outline: 0;
+}
+form {
+        margin-top: 50px;
+}
+.feedback-input:focus {
+        border: 2px solid #2c71d8;
+}
+textarea {
+        height: 150px;
+        line-height: 150%;
+        resize: vertical;
+}
+
+[type="submit"] {
+        width: 100%;
+        background: #3586ff;
+        border-radius: 5px;
+        border: 0;
+        cursor: pointer;
+        color: white;
+        font-size: 24px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        transition: all 0.3s;
+        font-weight: 700;
+}
+[type="submit"]:hover {
+        background: #3586ff;
+}
+.bookInfo{
+        margin: 0.5rem;
+}
